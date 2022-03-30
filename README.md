@@ -20,6 +20,6 @@ jest LC1_Twosum --watch
 // ex.2
 jest LC9_isPalindrome --watch
 ``` 
-3.read your result in terminal 
+3.read your result in terminal. 
 4.you can edit and save your solution (jest will always run test every time you saved)
 5.press q for exit wathing mode
